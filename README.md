@@ -1,2 +1,2 @@
 # Demo-repository
-for practices
+for practice
